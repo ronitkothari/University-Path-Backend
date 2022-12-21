@@ -1,5 +1,5 @@
 # Backend
-Acts at the backend for UWPath. 
+Acts at the backend for Univeristy Path. 
 
 ## Set up
 Please refer to [Wiki](https://github.com/UW-Path/Backend/wiki/Developer:-Set-Up) for instructions to set up restful API
